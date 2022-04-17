@@ -15,7 +15,7 @@ Os artefatos do projeto são criados com base nas diversas plataformas e a conex
 ## Gerenciamento de Projeto
 Optamos por utilizar o Git Flow para a gestão do código fonte do software desenvolvido pelo grupo. Desta maneira, conseguimos manter o controle do que está sendo produzido pela equipe, pois a manutenção pode ser realizada em branch, onde, ao mesmo tempo são corrigidas as falhas, implementando novas funcionalidades e total controle da funcionalidade do código. 
 
-![Personas](img/git_flow.PNG)
+![Personas](pmv-ads-2021-2-e2-proj-int-t3-tapunk/docs/img/git_flow.PNG)
     
 ## Gerenciamento de Projeto
 O grupo irá utilizar o Scrum, pois tem uma gestão ágil de desenvolvimento de software, onde o projeto pode ser divido em ciclos. Com isso, conseguimos planejar o tempo que levamos para finalizar cada etapa do projeto de modo produtivo e eficaz, diminuindo o impacto das alterações no fluxo do processo alcançando os objetivos definidos durante a etapa de planejamento.
